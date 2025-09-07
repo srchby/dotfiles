@@ -1,0 +1,81 @@
+# Build files
+.deps
+.direnv
+aclocal.m4
+autom4te.cache
+config.log
+config.status
+configure
+depcomp
+install-sh
+missing
+stamp-h1
+compton
+*.o
+*.d
+build/
+compile_commands.json
+build.ninja
+
+# language servers
+.ccls-cache
+.clangd
+.cache
+
+# CMake files
+compton-*.deb
+compton-*.rpm
+compton-*.tar.bz2
+release/
+_CPack_Packages/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CPackSourceConfig.cmake
+install_manifest.txt
+
+# apitrace
+*.trace
+
+# Vim files
+.sw[a-z]
+.*.sw[a-z]
+*~
+
+# Rust
+target
+
+# Python
+*.pyc
+*.py
+!/tools/*.py
+!/tests/testcases/*.py
+
+# Misc files
+.vscode
+*.conf
+!/tests/configs/*.conf
+!/data/*.conf
+perf.data
+perf.data.old
+core.*
+vgcore.*
+.gdb_history
+oprofile_data/
+compton.plist
+callgrind.out.*
+man/*.html
+man/*.1
+doxygen/
+.clang_complete
+.ycm_extra_conf.py
+.ycm_extra_conf.pyc
+/src/backtrace-symbols.[ch]
+/compton*.trace
+*.orig
+/tests/log
+/tests/testcases/__pycache__/
+*.profraw
+
+# Subproject files
+subprojects/libconfig

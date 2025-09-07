@@ -1,0 +1,1 @@
+../../../../.dotfiles/.config/picom/tests/testcases/issue239_3_norefresh.py

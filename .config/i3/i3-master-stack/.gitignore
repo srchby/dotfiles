@@ -1,0 +1,4 @@
+id.txt
+__pycache__/**/*
+.vim/**/*
+

@@ -1,0 +1,1 @@
+../../../../.dotfiles/.config/picom/tests/testcases/clear_shadow_unredirected.py

@@ -1,0 +1,1 @@
+../../../.dotfiles/.config/picom/tools/make-a-release.py

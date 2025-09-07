@@ -1,0 +1,1 @@
+../../../../.dotfiles/.config/picom/tests/testcases/redirect_when_unmapped_window_has_shadow.py

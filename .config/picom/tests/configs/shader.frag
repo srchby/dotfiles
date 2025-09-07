@@ -1,0 +1,1 @@
+../../../../.dotfiles/.config/picom/tests/configs/shader.frag

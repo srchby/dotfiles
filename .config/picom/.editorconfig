@@ -1,0 +1,8 @@
+root = true
+[*.{c,h}]
+indent_style = tab
+indent_size = 8
+max_line_length = 90
+[*.nix]
+indent_style = space
+indent_size = 2

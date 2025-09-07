@@ -1,0 +1,1 @@
+../../../.dotfiles/.config/picom/dbus-examples/inverter.sh

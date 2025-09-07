@@ -1,0 +1,1 @@
+../../../.dotfiles/.config/picom/tools/animgen.c

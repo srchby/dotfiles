@@ -1,0 +1,1 @@
+../../../../.dotfiles/.config/picom/tests/testcases/issue394.py

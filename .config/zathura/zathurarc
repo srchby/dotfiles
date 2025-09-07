@@ -1,0 +1,46 @@
+# font
+set font "inconsolata 10"
+
+# colors
+set default-bg "#2e3440" #00
+set default-fg "#d8dee9" #01
+set statusbar-fg "#d8dee9" #04
+set statusbar-bg "#434c5e" #01
+set inputbar-bg "#3b4252" #00 currently not used
+set inputbar-fg "#d8dee9" #02
+set notification-error-bg "#bf616a" #08
+set notification-error-fg "#2e3440" #00
+set notification-warning-bg "#bf616a" #08
+set notification-warning-fg "#2e3440" #00
+set highlight-color "#88c0d0" #0A
+set highlight-active-color "#5e81ac" #0D
+set completion-highlight-fg "#3b4252" #02
+set completion-highlight-bg "#a3be8c" #0C
+set completion-bg "#434c5e" #02
+set completion-fg "#d8dee9" #0C
+set notification-bg "#a3be8c" #0B
+set notification-fg "#3b4252" #00
+set recolor-lightcolor "#2e3440" #00
+set recolor-darkcolor "#d8dee9" #06
+
+# settings
+set recolor true
+set smooth-scroll true
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+
+# mappings
+map u scroll half-up
+map u scroll half-down
+map D toggle_page_mode
+map r reload
+map R rotate
+map K zoom in
+map J zoom out
+map i recolor
+map p print
+unmap b
+map b feedkeys ":blist<Return>"
+map <C-b> feedkeys ":bdelete "
+map B feedkeys ":bmark "

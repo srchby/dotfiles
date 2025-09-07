@@ -1,0 +1,1 @@
+../../../.dotfiles/.config/picom/man/picom-inspect.1.adoc

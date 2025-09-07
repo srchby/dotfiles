@@ -1,0 +1,1 @@
+../../../.dotfiles/.config/picom/man/picom-trans.1.adoc

@@ -1,0 +1,1 @@
+../../../../.dotfiles/.config/picom/src/utils/console.h

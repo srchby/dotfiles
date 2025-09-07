@@ -1,0 +1,1 @@
+../../../../../.dotfiles/.config/picom/src/transition/generated/script_templates.c

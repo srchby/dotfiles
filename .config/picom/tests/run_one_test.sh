@@ -1,0 +1,1 @@
+../../../.dotfiles/.config/picom/tests/run_one_test.sh

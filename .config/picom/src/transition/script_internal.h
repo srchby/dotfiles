@@ -1,0 +1,1 @@
+../../../../.dotfiles/.config/picom/src/transition/script_internal.h
