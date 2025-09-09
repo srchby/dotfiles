@@ -1,7 +1,5 @@
 [Reddit Post](https://reddit.com/r/unixporn/comments/1nasetc/i3_my_current_i3wm_nord_rice/)
 
-![](screenshots/Screenshot_2025-09-07_09-11-10.png)
-
 ![](screenshots/Screenshot_2025-09-07_09-27-41.png)
 
 ![](screenshots/Screenshot_2025-09-07_09-31-03.png)
